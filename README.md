@@ -17,14 +17,6 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am an Android Developer at WoWExp Technologies
-- 🔭 I’m currently working on News App :grin:
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][Linkedin]
-- ⚡ Fun fact: The word ‘Android’ means a human with a male robot appearance.
-
-<br>
-
 ### Languages and Tools: 
 
 <img align="left" alt="Android" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
