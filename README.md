@@ -44,5 +44,4 @@
 [linkedin]: https://www.linkedin.com/in/isachin275/
 
 
-#### Thank You-🙏🏼
-⭐️ From [Sachin Pradhan](https://sachin.work)
+#### Thank You🙏🏼
